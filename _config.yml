@@ -20,12 +20,24 @@ author: Sun Qian
 ###############################################
 
 navbar-links:
-  About: "aboutme"
-  Interests: "interests"
-  Notes: "notes"
-  Projects: "projects"
-  Achievements: "achievements"
-  Life: "life"
+  Mechanobiology: "Mechanobiology"
+  Polymer: "Polymer"
+  Embedded Dev: "Embedded Dev"
+  Projects: "Projects"
+  Life: "Life"
+
+collections:
+  Mechanobiology:
+    output: true
+  Polymer:
+    output: true
+  Embedded Dev:
+    output: true
+  Projects:
+    output: true
+  Life:
+    output: true
+
 
 ################
 # --- Logo --- #

@@ -2,11 +2,13 @@
 layout: post
 title: the first blog
 subtitle: 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/avatar-icon.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: 
 author: Sun Qian
 ---
-the good try on 21/06/2025
-这是第二个常识看下排序结果
+This is the first post. It doesn't have any content. It's just to tell you that I'm here.
+<p>
+More rich content, please look forward to it
+</p>
